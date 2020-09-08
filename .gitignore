@@ -5,6 +5,7 @@
 *.swn
 *.pyc
 
+.vscode/
 build/
 objs/
 dist/
